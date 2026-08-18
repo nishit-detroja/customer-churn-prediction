@@ -27,8 +27,7 @@ churn-project/
 ├── charts/                        # exported PNG charts
 ├── churn_analysis.py              # full pipeline script
 ├── notebook/
-│   ├── churn_prediction.ipynb     # full notebook with narrative + outputs
-│   └── churn_prediction.html      # static viewable export
+│   └── churn_prediction.ipynb     # full notebook with narrative + outputs
 └── README.md
 ```
 
